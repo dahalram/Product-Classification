@@ -1,2 +1,2 @@
 # Word-Classification
-Classifying words based on context
+Classification of products from the NAPCS dataset
